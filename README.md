@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c90e9a8a-424c-4950-bb78-24590325751c
+
 # 🐍 Real-Time Snake Game on Artix-7 FPGA (Verilog & DVI/HDMI)
 
 A hardware-based implementation of the classic **Snake Game** written in **Verilog HDL** and deployed on a **Xilinx Artix-7 FPGA** (`xc7a200tsbq484-1`). 
